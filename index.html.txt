@@ -1,10 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My First Website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Find Your Match</title>
+
+<style>
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg,#ff4d6d,#ff758f);
+  color:white;
+  text-align:center;
+}
+
+.container {
+  padding:60px 20px;
+}
+
+h1 {
+  font-size:36px;
+}
+
+p {
+  font-size:18px;
+  margin:15px 0;
+}
+
+.btn {
+  margin-top:20px;
+  padding:15px 35px;
+  font-size:18px;
+  border:none;
+  background:white;
+  color:#ff4d6d;
+  border-radius:30px;
+  cursor:pointer;
+}
+
+.box {
+  background: rgba(255,255,255,0.1);
+  margin:30px auto;
+  padding:20px;
+  border-radius:15px;
+  max-width:300px;
+}
+
+.footer {
+  margin-top:40px;
+  font-size:12px;
+  opacity:0.8;
+}
+</style>
+
 </head>
 <body>
-  <h1>Welcome to My Website 🚀</h1>
-  <p>My site is live now!</p>
+
+<div class="container">
+
+<h1>💖 Find Your Perfect Match</h1>
+<p>Join thousands of singles near you right now!</p>
+
+<button class="btn" onclick="go()">Start Now 🔥</button>
+
+<div class="box">
+  ✔️ 100% Free Sign Up  
+  ✔️ Real People Near You  
+  ✔️ Instant Match  
+</div>
+
+<div class="box">
+  🔒 Your Privacy is Protected  
+  ❤️ Safe & Secure Dating  
+</div>
+
+<div class="footer">
+  © 2026 Dating Network | All Rights Reserved
+</div>
+
+</div>
+
+<script>
+function go(){
+  window.location.href="https://www.profitablecpmratenetwork.com/iet7b7yz?key=faa1543cfce3d6fb24ba17f17f4e2307";
+}
+</script>
+
 </body>
 </html>
